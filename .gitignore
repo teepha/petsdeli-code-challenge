@@ -1,0 +1,27 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Coverage directory used by tools like istanbul
+coverage
+*.lcov
+.coveralls.yml
+
+# nyc test coverage
+.nyc_output
+
+# Dependency directories
+node_modules/
+.vscode
+
+# TypeScript v1 declaration files
+typings/
+
+# dotenv environment variables file
+.env
+
+# Serverless directories
+.serverless/
+
+.build/
