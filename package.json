@@ -29,7 +29,7 @@
     "mongoose-uuid2": "^2.3.0",
     "morgan": "^1.10.0",
     "swagger-jsdoc": "^6.1.0",
-    "swagger-ui-express": "^4.1.6",
+    "swagger-ui-express": "^4.1.6"
   },
   "devDependencies": {
     "@hapi/joi": "^17.1.1",
