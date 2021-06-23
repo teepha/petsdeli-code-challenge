@@ -20,6 +20,3 @@ functions:
       - httpApi:
           path: /users/interactions
           method: post
-          request:
-            schema:
-              application/json: ${file(validation/user_interaction_schema.json)}

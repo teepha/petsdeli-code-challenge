@@ -15,6 +15,11 @@ class UserInteractionController {
       event.body
     );
 
+    if (typeof eventType !== 'string' || typeof eventSource !== 'string' || typeof userId !== 'string') {
+      console.error('Validation Failed');
+      throw new Error('Couldn\'t submit user interactions because of validation errors.');
+    }
+
     try {
       const userInteractionData =
         await userInteractionService.createNewUserInteraction({
