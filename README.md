@@ -6,16 +6,16 @@ The purpose of this challenge is to create a RESTful API with a single endpoint 
 
 ## Table of Contents
 
-1. <a href="#link-to-hosted-app">Link to Hosted App</a>
+1. <a href="#link-to-hosted-app">Link to API</a>
 2. <a href="#tech-stack-used">Tech Stack Used</a>
 3. <a href="#application-features">Application Features</a>
 4. <a href="#how-to-use">How To Use</a>
 5. <a href="#author">Author</a>
 6. <a href="#license">License</a>
 
-## Link to Hosted App
+## Link to API
 
-- [API link](https://tmby5n5tz2.execute-api.us-east-1.amazonaws.com)
+- [API link](https://tmby5n5tz2.execute-api.us-east-1.amazonaws.com/users/interactions)
 
 ## Tech Stack Used
 
