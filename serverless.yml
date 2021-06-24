@@ -14,7 +14,7 @@ plugins:
   - serverless-offline
 
 functions:
-  hello:
+  userInteraction:
     handler: src/handler.create
     events:
       - httpApi:

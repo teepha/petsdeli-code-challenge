@@ -1,6 +1,6 @@
 import mongoose, { Document } from "mongoose";
 import BaseSchema from "./BaseSchema";
-require("mongoose-uuid2")(mongoose);
+require("mongoose-uuid4")(mongoose);
 
 const { UUID } = mongoose.Types as any;
 
